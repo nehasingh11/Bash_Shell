@@ -4,4 +4,4 @@
 #then display the entire array, with a space between each of the countries' names.
 
 readarray -t a
-echo ${a[@]}
+echo "${a[@]}"
